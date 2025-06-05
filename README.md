@@ -1,7 +1,3 @@
-
----
-
-## ☁️ Project 2: `weather-etl-pipeline`
 # 🌤️ Weather ETL Pipeline with Airflow & Streamlit
 
 This project is a real-time ETL pipeline that extracts live weather data from the Open-Meteo API, processes it using **Apache Airflow**, and stores it in a PostgreSQL database. A **Streamlit dashboard** visualizes the latest weather conditions.
